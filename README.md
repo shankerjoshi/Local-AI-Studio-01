@@ -59,6 +59,22 @@ python coding_agent.py
 
 ---
 
+## Folder structure
+
+```
+local-ai-coder-studio/
+├── app.py
+├── utils.py
+├── coding_agent.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
+└── data/
+    └── chat_history.json   (auto-created when you first run the app)
+```
+
+---
+
 ## Files in this project
 
 | File | What it is |
